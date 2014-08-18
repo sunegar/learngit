@@ -1,13 +1,13 @@
-
+//hell everyone, i am learning git at 2014-8-18!
 /*!
 	\file   udr_xel_route.c
 	\brief  
-		Function list
+	
 
 		int udr_l3_tnl_destroy (int unit, int index);
 		int udr_l3_tnl_intf_set (int unit, int index, uint8_t family);
 		int udr_l3_tnl_param_family_set (int unit, int tnl_index, uint32_t family);
-		int udr_l3_tnl_param_type_set (int unit, int tnl_index, uint32_t type);
+		andnt udr_l3_tnl_param_type_set (int unit, int tnl_index, uint32_t type);
 		int udr_modid_to_slot_get (int unit, int modid, int remote, int *slot);
 		int udr_route_6rd_braddr_set (int unit, uint32_t addr, int index);
 		int udr_route_6rd_domain_addr_set (int unit, uint8_t * addr, int index);
